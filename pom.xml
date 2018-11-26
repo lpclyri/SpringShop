@@ -28,6 +28,12 @@
   </properties>
 
   <dependencies>
+    <dependency>
+      <groupId>com.googlecode.rapid-framework</groupId>
+      <artifactId>rapid-core</artifactId>
+      <version>4.0.5</version>
+    </dependency>
+
     <!-- Spring & Spring mvc -->
     <dependency>
       <groupId>org.springframework</groupId>
