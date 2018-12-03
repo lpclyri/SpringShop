@@ -19,6 +19,6 @@ public class AuthController {
 
     @RequestMapping(value = "/register", method = RequestMethod.POST)
     public String registerPost() {
-
+        return "login";
     }
 }
